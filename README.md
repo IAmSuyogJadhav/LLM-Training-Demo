@@ -26,6 +26,8 @@ Follow the instructions inside the [02. Training and Scaling](02.%20Training%20a
 
 You may need to change the `CUDA_VISIBLE_DEVICES` environment variable to select the GPU(s) you want to use. The value set for it inside the notebooks is for a DGX-1 system with 8 GPUs. If you are using a different system, you may need to change it accordingly.
 
+Link to the slideshow presentation: [link](https://cloud.suyogjadhav.com/index.php/s/NxTGBCDySZqRif2)
+
 # License
 
 This project is licensed under the GNU/GPLv3 License - see the [LICENSE](LICENSE) file for details.
