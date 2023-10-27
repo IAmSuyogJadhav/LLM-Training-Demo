@@ -32,4 +32,4 @@ This project is licensed under the GNU/GPLv3 License - see the [LICENSE](LICENSE
 
 # Issues
 
-Please report any issues you find in the [Issues](/issues) section of this repository.
+Please report any issues you find in the [Issues](../../issues) section of this repository.
